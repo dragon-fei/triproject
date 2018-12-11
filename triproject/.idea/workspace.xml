@@ -6,12 +6,12 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e7d5a00-44d8-468d-8dbd-8db4634d2b45" name="Default Changelist" comment="" />
+    <list default="true" id="12ddce85-449b-4fac-ac6e-9d12a4bc99dc" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/triproject-service/target/" />
-    <ignored path="$PROJECT_DIR$/triproject-web/target/" />
     <ignored path="$PROJECT_DIR$/triproject-util/target/" />
+    <ignored path="$PROJECT_DIR$/triproject-web/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/triproject-service/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,84 +23,129 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.70" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.54" value="1" />
           <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="4" />
-          <entry key="ico" value="2" />
-          <entry key="java" value="24" />
-          <entry key="jpg" value="1" />
-          <entry key="js" value="15" />
-          <entry key="jsp" value="9" />
-          <entry key="png" value="1" />
-          <entry key="properties" value="3" />
-          <entry key="xml" value="16" />
+          <entry key="class" value="1" />
+          <entry key="java" value="11" />
+          <entry key="jsp" value="67" />
+          <entry key="properties" value="6" />
+          <entry key="xml" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="4" />
-          <entry key="Image" value="4" />
-          <entry key="JAVA" value="24" />
-          <entry key="JSP" value="9" />
-          <entry key="JavaScript" value="15" />
-          <entry key="Properties" value="3" />
-          <entry key="XML" value="16" />
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="11" />
+          <entry key="JSP" value="67" />
+          <entry key="Properties" value="6" />
+          <entry key="XML" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="763" />
-          <entry key="js" value="105" />
-          <entry key="jsp" value="8" />
-          <entry key="xml" value="44" />
+          <entry key="java" value="197" />
+          <entry key="jsp" value="1217" />
+          <entry key="properties" value="6" />
+          <entry key="xml" value="183" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="763" />
-          <entry key="JSP" value="8" />
-          <entry key="JavaScript" value="105" />
-          <entry key="XML" value="44" />
+          <entry key="JAVA" value="197" />
+          <entry key="JSP" value="1217" />
+          <entry key="Properties" value="6" />
+          <entry key="XML" value="183" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/pages/back/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-27">
+              <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/pages/plugins/back/include_menu_item.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-656">
+              <caret line="30" column="36" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/pages/plugins/back/back_header.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" column="57" lean-forward="true" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/pages/plugins/back/include_title_head.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="6" column="41" lean-forward="true" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jsp File" />
-        <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>\&lt;\%\@ page language\=\&quot;java\&quot; import\=\&quot;java\.util\.\*\&quot; pageEncoding\=\&quot;UTF\-8\&quot;\%\&gt;\n\n\&lt;header class\=\&quot;main\-header\&quot;\&gt;\n    \&lt;a href\=\&quot;\&quot; class\=\&quot;logo\&quot;\&gt; \&lt;\!\-\- mini logo for sidebar mini 50x50 pixels \-\-\&gt;\n        \&lt;span class\=\&quot;logo\-mini\&quot;\&gt;\&lt;b\&gt;T\&lt;\/b\&gt;U\&lt;\/span\&gt; \&lt;\!\-\- logo for regular state and mobile devices \-\-\&gt;\n        \&lt;span class\=\&quot;logo\-lg\&quot;\&gt;\&lt;\/span\&gt;\n    \&lt;\/a\&gt;\n        \&lt;nav class\=\&quot;navbar navbar\-static\-top\&quot;\&gt;\n            \&lt;\!\-\- Sidebar toggle button\-\-\&gt;\n            \&lt;a href\=\&quot;\#\&quot; class\=\&quot;sidebar\-toggle\&quot; data\-toggle\=\&quot;offcanvas\&quot;\n               role\=\&quot;button\&quot;\&gt; \&lt;span class\=\&quot;sr\-only\&quot;\&gt;Toggle navigation\&lt;\/span\&gt;\n            \&lt;\/a\&gt;\n            \&lt;\!\-\- Navbar Right Menu \-\-\&gt;\n            \&lt;div class\=\&quot;navbar\-custom\-menu\&quot;\&gt;\n                \&lt;ul class\=\&quot;nav navbar\-nav\&quot;\&gt;\n                    \&lt;li class\=\&quot;dropdown user user\-menu\&quot;\&gt;\&lt;a href\=\&quot;\#\&quot;\n                                                           class\=\&quot;dropdown\-toggle\&quot; data\-toggle\=\&quot;dropdown\&quot;\&gt; \&lt;img\n                            src\=\&quot;upload\/member\/nophoto\.png\&quot; class\=\&quot;user\-image\&quot; alt\=\&quot;User Image\&quot;\&gt;\n                        \&lt;span class\=\&quot;hidden\-xs\&quot;\&gt;\$\{name\}\&lt;\/span\&gt;\n                    \&lt;\/a\&gt;\n                        \&lt;ul class\=\&quot;dropdown\-menu\&quot;\&gt;\n                            \&lt;\!\-\- User image \-\-\&gt;\n                            \&lt;li class\=\&quot;user\-header\&quot;\&gt;\&lt;img src\=\&quot;upload\/member\/nophoto\.png\&quot;\n                                                         class\=\&quot;img\-circle\&quot; alt\=\&quot;User Image\&quot;\&gt;\n                                \&lt;\/li\&gt;\n                            \&lt;\!\-\- Menu Body \-\-\&gt;\n                            \&lt;li\&gt;\n                                \&lt;div class\=\&quot;text\-center\&quot;\&gt;\n                                \&lt;\/div\&gt;\n                            \&lt;\/li\&gt;\n                            \&lt;\!\-\- Menu Footer\-\-\&gt;\n                            \&lt;li class\=\&quot;user\-footer\&quot;\&gt;\n                                \&lt;div class\=\&quot;text\-center\&quot;\&gt;\n                                    \&lt;a href\=\&quot;logout\.jsp\&quot; class\=\&quot;btn btn\-default btn\-flat\&quot;\&gt;系统注销\&lt;\/a\&gt;\n                                \&lt;\/div\&gt;\n                            \&lt;\/li\&gt;\n                        \&lt;\/ul\&gt;\&lt;\/li\&gt;\n                    \&lt;\!\-\- Control Sidebar Toggle Button \-\-\&gt;\n                    \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot; data\-toggle\=\&quot;control\-sidebar\&quot;\&gt;\&lt;i\n                            class\=\&quot;fa fa\-gears\&quot;\&gt;\&lt;\/i\&gt;\&lt;\/a\&gt;\&lt;\/li\&gt;\n                \&lt;\/ul\&gt;\n            \&lt;\/div\&gt;\n\n        \&lt;\/nav\&gt;\n\&lt;\/header\&gt;\n</find>
+    </findStrings>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/triproject-service/src/main/java/com/use/vo/mapping/Role.xml" />
-        <option value="$PROJECT_DIR$/triproject-service/src/main/java/com/use/vo/mapping/Emp.xml" />
-        <option value="$PROJECT_DIR$/triproject-service/src/main/java/com/use/vo/mapping/Level.xml" />
-        <option value="$PROJECT_DIR$/triproject-service/src/main/java/com/use/vo/mapping/Action.xml" />
-        <option value="$PROJECT_DIR$/triproject-web/src/main/resources/ehcache.xml" />
-        <option value="$PROJECT_DIR$/triproject-web/src/main/resources/spring/spring-common.xml" />
-        <option value="$PROJECT_DIR$/triproject-web/src/main/resources/spring/spring-shiro.xml" />
-        <option value="$PROJECT_DIR$/triproject-web/src/main/java/com/use/action/back/IndexActionBack.java" />
-        <option value="$PROJECT_DIR$/triproject-web/src/main/java/com/use/message/Pages.properties" />
         <option value="$PROJECT_DIR$/triproject-web/src/main/java/com/use/realm/EmpRealm.java" />
-        <option value="$PROJECT_DIR$/triproject-web/src/main/java/com/use/realm/cre/CustomerCredentialsMatcher.java" />
-        <option value="$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/pages/login.jsp" />
-        <option value="$PROJECT_DIR$/triproject-web/src/main/webapp/login.jsp" />
-        <option value="$PROJECT_DIR$/triproject-web/src/main/java/com/use/util/action/abs/RandomCode.java" />
-        <option value="$PROJECT_DIR$/triproject-web/src/main/java/com/use/util/action/abs/AbstractBaseAction.java" />
-        <option value="$PROJECT_DIR$/triproject-web/src/main/java/com/use/util/RandomCode.java" />
-        <option value="$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/js/login.js" />
+        <option value="$PROJECT_DIR$/triproject-util/src/main/java/com/use/util/web/interceptor/ValidationInterceptor.java" />
+        <option value="$PROJECT_DIR$/triproject-web/src/main/java/com/use/message/Pages.properties" />
+        <option value="$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/pages/back/admin/dept/dept_list.jsp" />
+        <option value="$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/pages/back/admin/emp/emp_add.jsp" />
+        <option value="$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/pages/back/admin/emp/emp_edit.jsp" />
+        <option value="$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/pages/back/admin/emp/emp_list.jsp" />
+        <option value="$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/pages/plugins/include_alert.jsp" />
+        <option value="$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/pages/plugins/back/info/emp_info_modal.jsp" />
+        <option value="$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/pages/plugins/split_plugin_page_bar.jsp" />
+        <option value="$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/pages/plugins/split_plugin_search_bar.jsp" />
+        <option value="$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/pages/plugins/back/include_title_foot.jsp" />
+        <option value="$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/pages/plugins/back/back_footer.jsp" />
+        <option value="$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/pages/plugins/back/include_menu_item.jsp" />
+        <option value="$PROJECT_DIR$/triproject-web/pom.xml" />
+        <option value="$PROJECT_DIR$/triproject-service/pom.xml" />
+        <option value="$PROJECT_DIR$/triproject-util/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/triproject-service/src/main/java/com/use/vo/mapping/Role.xml" />
+        <option value="$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/pages/plugins/back/include_menu_sidebar.jsp" />
+        <option value="$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/pages/plugins/back/include_javascript_foot.jsp" />
+        <option value="$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/pages/plugins/back/back_header.jsp" />
+        <option value="$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/pages/plugins/back/basepath.jsp" />
+        <option value="$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/pages/plugins/basepath.jsp" />
+        <option value="$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/pages/plugins/back/include_javascript_head.jsp" />
+        <option value="$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/pages/back/index.jsp" />
+        <option value="$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/pages/plugins/back/include_title_head.jsp" />
       </list>
     </option>
   </component>
@@ -113,8 +158,8 @@
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
-    <option name="FILTER_INFO" value="true" />
-    <option name="FILTER_DEBUG" value="true" />
+    <option name="FILTER_INFO" value="false" />
+    <option name="FILTER_DEBUG" value="false" />
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="MavenImportPreferences">
@@ -141,6 +186,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -148,23 +194,300 @@
               <item name="triproject" type="b2602c69:ProjectViewProjectNode" />
               <item name="triproject" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="triproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="triproject" type="462c0819:PsiDirectoryNode" />
+              <item name="triproject-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="triproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="triproject" type="462c0819:PsiDirectoryNode" />
+              <item name="triproject-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="triproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="triproject" type="462c0819:PsiDirectoryNode" />
+              <item name="triproject-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="triproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="triproject" type="462c0819:PsiDirectoryNode" />
+              <item name="triproject-util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="triproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="triproject" type="462c0819:PsiDirectoryNode" />
+              <item name="triproject-util" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="triproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="triproject" type="462c0819:PsiDirectoryNode" />
+              <item name="triproject-util" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="triproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="triproject" type="462c0819:PsiDirectoryNode" />
+              <item name="triproject-util" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="triproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="triproject" type="462c0819:PsiDirectoryNode" />
+              <item name="triproject-util" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="use" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="triproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="triproject" type="462c0819:PsiDirectoryNode" />
+              <item name="triproject-util" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="use" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="triproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="triproject" type="462c0819:PsiDirectoryNode" />
+              <item name="triproject-util" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="use" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="triproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="triproject" type="462c0819:PsiDirectoryNode" />
+              <item name="triproject-util" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="use" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="interceptor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="triproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="triproject" type="462c0819:PsiDirectoryNode" />
+              <item name="triproject-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="triproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="triproject" type="462c0819:PsiDirectoryNode" />
+              <item name="triproject-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="triproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="triproject" type="462c0819:PsiDirectoryNode" />
+              <item name="triproject-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="triproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="triproject" type="462c0819:PsiDirectoryNode" />
+              <item name="triproject-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="triproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="triproject" type="462c0819:PsiDirectoryNode" />
+              <item name="triproject-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="use" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="triproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="triproject" type="462c0819:PsiDirectoryNode" />
+              <item name="triproject-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="use" type="462c0819:PsiDirectoryNode" />
+              <item name="action" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="triproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="triproject" type="462c0819:PsiDirectoryNode" />
+              <item name="triproject-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="use" type="462c0819:PsiDirectoryNode" />
+              <item name="action" type="462c0819:PsiDirectoryNode" />
+              <item name="back" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="triproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="triproject" type="462c0819:PsiDirectoryNode" />
+              <item name="triproject-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="use" type="462c0819:PsiDirectoryNode" />
+              <item name="message" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="triproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="triproject" type="462c0819:PsiDirectoryNode" />
+              <item name="triproject-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="use" type="462c0819:PsiDirectoryNode" />
+              <item name="realm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="triproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="triproject" type="462c0819:PsiDirectoryNode" />
+              <item name="triproject-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="use" type="462c0819:PsiDirectoryNode" />
+              <item name="realm" type="462c0819:PsiDirectoryNode" />
+              <item name="cre" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="triproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="triproject" type="462c0819:PsiDirectoryNode" />
+              <item name="triproject-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="triproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="triproject" type="462c0819:PsiDirectoryNode" />
+              <item name="triproject-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="profiles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="triproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="triproject" type="462c0819:PsiDirectoryNode" />
+              <item name="triproject-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="triproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="triproject" type="462c0819:PsiDirectoryNode" />
+              <item name="triproject-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="triproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="triproject" type="462c0819:PsiDirectoryNode" />
+              <item name="triproject-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="triproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="triproject" type="462c0819:PsiDirectoryNode" />
+              <item name="triproject-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="back" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="triproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="triproject" type="462c0819:PsiDirectoryNode" />
+              <item name="triproject-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="back" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="triproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="triproject" type="462c0819:PsiDirectoryNode" />
+              <item name="triproject-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="triproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="triproject" type="462c0819:PsiDirectoryNode" />
+              <item name="triproject-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="back" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="triproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="triproject" type="462c0819:PsiDirectoryNode" />
+              <item name="triproject-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="upload" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544159425807" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544506155521" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.1672794" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\triproject\triproject-web\src\main\resources" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -179,7 +502,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.12" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="C:/jdk1.8.0_181">
+    <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.12" ALTERNATIVE_JRE_ENABLED="false">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="triproject-web:war exploded">
@@ -189,7 +512,7 @@
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="Unnamed_triproject_3" />
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_triproject_4" />
       </server-settings>
       <predefined_log_file id="Tomcat" enabled="true" />
       <predefined_log_file id="Tomcat Catalina" enabled="true" />
@@ -197,7 +520,7 @@
       <predefined_log_file id="Tomcat Host Manager" enabled="false" />
       <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="50207" />
+        <option name="DEBUG_PORT" value="61824" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -251,29 +574,103 @@
         </option>
       </method>
     </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.12" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="triproject-web:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_triproject" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61824" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="triproject-web:war exploded" />
+          <artifact name="triproject-web:war" />
+        </option>
+      </method>
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8e7d5a00-44d8-468d-8dbd-8db4634d2b45" name="Default Changelist" comment="" />
-      <created>1544064987145</created>
+      <changelist id="12ddce85-449b-4fac-ac6e-9d12a4bc99dc" name="Default Changelist" comment="" />
+      <created>1544410474466</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1544064987145</updated>
-      <workItem from="1544064988550" duration="12398000" />
-      <workItem from="1544144070430" duration="10860000" />
+      <updated>1544410474466</updated>
+      <workItem from="1544410476234" duration="15039000" />
+      <workItem from="1544491164786" duration="12689000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23258000" />
+    <option name="totallyTimeSpent" value="27728000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24236111" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30277777" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -282,8 +679,8 @@
       <window_info id="Capture Tool" order="6" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32931727" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27443105" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5046854" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -314,348 +711,295 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/resources/profiles/config/database.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/triproject-web/src/main/resources/spring/spring-mybatis.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-162" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/triproject-service/src/main/java/com/use/dao/IEmpDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/triproject-service/src/main/java/com/use/dao/IActionDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/triproject-service/src/main/java/com/use/dao/IRoleDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/triproject-service/src/main/java/com/use/dao/ILevelDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/resources/mybatis/mybatis.cfg.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/triproject-service/src/main/java/com/use/vo/mapping/Role.xml">
+    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="66" selection-start-line="4" selection-start-column="66" selection-end-line="4" selection-end-column="66" />
-        </state>
+        <state relative-caret-position="-1975" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/triproject-service/src/main/java/com/use/vo/mapping/Level.xml">
+    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/resources/spring/spring-common.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="58" lean-forward="true" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
+        <state relative-caret-position="-361" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/resources/spring/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1053" />
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.3.2/shiro-core-1.3.2.jar!/org/apache/shiro/authc/credential/SimpleCredentialsMatcher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="28" column="28" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/triproject-service/src/main/java/com/use/vo/mapping/Emp.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="48" lean-forward="true" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+        <state relative-caret-position="270">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/triproject-service/src/main/java/com/use/vo/mapping/Action.xml">
+    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/pages/plugins/include_alert.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="48" lean-forward="true" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+        <state relative-caret-position="108">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="e#201#208#1#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/resources/ehcache.xml">
+    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/pages/plugins/back/info/emp_info_modal.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="52" column="10" selection-start-line="52" selection-start-column="10" selection-end-line="52" selection-end-column="10" />
+        <state relative-caret-position="1575">
+          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="e#543#550#1#HTML" expanded="true" />
+            <element signature="e#691#697#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#pre#0;n#td#1;n#tr#5;n#table#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/resources/spring/spring-common.xml">
+    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/pages/back/admin/dept/dept_list.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1134">
-          <caret line="42" column="145" selection-start-line="42" selection-start-column="145" selection-end-line="42" selection-end-column="145" />
+        <state relative-caret-position="1836">
+          <caret line="68" column="66" selection-start-line="68" selection-start-column="52" selection-end-line="68" selection-end-column="66" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/resources/spring/spring-shiro.xml">
+    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/pages/plugins/split_plugin_page_bar.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="51" column="11" lean-forward="true" selection-start-line="51" selection-start-column="11" selection-end-line="51" selection-end-column="11" />
+        <state relative-caret-position="27">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/pages/plugins/split_plugin_search_bar.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/pages/back/admin/emp/emp_list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="29" column="27" lean-forward="true" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/pages/back/admin/emp/emp_edit.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4293">
+          <caret line="159" lean-forward="true" selection-start-line="159" selection-end-line="159" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/pages/back/admin/emp/emp_add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4239">
+          <caret line="157" lean-forward="true" selection-start-line="157" selection-end-line="157" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/triproject-web/src/main/java/com/use/realm/cre/CustomerCredentialsMatcher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/java/com/use/realm/EmpRealm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="55" column="39" lean-forward="true" selection-start-line="55" selection-start-column="39" selection-end-line="55" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/java/com/use/action/back/IndexActionBack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/triproject-util/src/main/java/com/use/util/web/validator/ActionValidationUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-524">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/triproject-util/src/main/java/com/use/util/web/validator/ValueRuleValidator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="108">
+          <caret line="7" column="55" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="55" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/triproject-util/src/main/java/com/use/util/web/interceptor/ValidationInterceptor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        <state relative-caret-position="305">
+          <caret line="36" column="13" lean-forward="true" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/java/com/use/action/LoginAction.java">
+    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/pages/plugins/back/include_title_foot.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="189">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/js/split_page.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/pages/login.jsp">
+    <entry file="file://$PROJECT_DIR$/triproject-service/src/main/java/com/use/service/impl/EmpServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1006">
-          <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
+        <state relative-caret-position="-469">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/web.xml">
+    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/java/com/use/realm/EmpRealm.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-324" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/css/login.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8318" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/css/mldn.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3512" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/bootstrap/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5022" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/bootstrap/js/bootstrap.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2430">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="268">
+          <caret line="63" column="20" lean-forward="true" selection-start-line="63" selection-start-column="20" selection-end-line="63" selection-end-column="20" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/bootstrap/js/npm.js">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/triproject-web/src/main/java/com/use/message/Pages.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="20" lean-forward="true" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        <state relative-caret-position="135">
+          <caret line="5" column="38" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/dist/js/demo.js">
+    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/resources/spring/spring-shiro.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1620">
-          <folding>
-            <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#0;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#div#0;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#1;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#div#1;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#0;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#div#0;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#1;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#div#1;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#0;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#div#0;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#1;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#div#1;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#0;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#div#0;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#1;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#div#1;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#0;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#div#0;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#1;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#div#1;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#0;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#div#0;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#1;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#div#1;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#0;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#div#0;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#1;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#div#1;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#0;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#div#0;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#1;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#div#1;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#0;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#div#0;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#1;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#div#1;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#0;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#div#0;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#1;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#div#1;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#0;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#div#0;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#1;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#div#1;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#0;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#div#0;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#1;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#div#1;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="-961">
+          <caret line="106" column="53" selection-start-line="106" selection-start-column="37" selection-end-line="106" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/dist/js/pages/dashboard.js">
+    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/java/com/use/action/back/IndexActionBack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-891">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="810">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/dist/plugins/sparkline/jquery.sparkline.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2106" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/webapp/index.jsp">
+    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/resources/mybatis/ehcache.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/js/mldn.js">
+    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/resources/mybatis/mybatis.cfg.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/resources/logback.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2189">
+        <state relative-caret-position="218">
+          <caret line="9" column="15" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/resources/profiles/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/triproject-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="85" selection-start-line="85" selection-end-line="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/triproject-util/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/triproject-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6">
+          <caret line="33" column="58" lean-forward="true" selection-start-line="33" selection-start-column="58" selection-end-line="33" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/triproject-service/src/main/java/com/use/vo/mapping/Role.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/triproject-service/src/main/java/com/use/dao/IRoleDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/pages/plugins/back/include_javascript_foot.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/pages/plugins/back/back_footer.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
           <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/images/mldn.ico">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/pages/plugins/back/back_forward.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="47" column="71" selection-start-line="47" selection-start-column="51" selection-end-line="47" selection-end-column="71" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/images/login_back.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/pages/plugins/back/basepath.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/images/login-lock.png">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/pages/plugins/basepath.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/java/com/use/util/action/abs/RandomCode.java">
+    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/pages/plugins/back/include_javascript_head.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/pages/plugins/back/include_menu_sidebar.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/pages/back/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-27">
+          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/pages/plugins/back/include_menu_item.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-656">
+          <caret line="30" column="36" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/pages/plugins/back/back_header.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <caret line="4" column="57" lean-forward="true" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/java/com/use/util/action/abs/AbstractBaseAction.java">
+    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/pages/plugins/back/include_title_head.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="66" column="9" lean-forward="true" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#223#231#0" expanded="true" />
-            <element signature="e#475#481#0" expanded="true" />
-            <element signature="e#687#688#0" expanded="true" />
-            <element signature="e#762#763#0" expanded="true" />
-            <element signature="e#1288#1289#0" expanded="true" />
-            <element signature="e#1328#1329#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/java/com/use/util/RandomCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1226">
-          <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/webapp/login.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="67" column="38" lean-forward="true" selection-start-line="67" selection-start-column="38" selection-end-line="67" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/triproject-web/src/main/webapp/WEB-INF/js/login.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        <state relative-caret-position="162">
+          <caret line="6" column="41" lean-forward="true" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
         </state>
       </provider>
     </entry>
@@ -665,11 +1009,11 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>triproject-web:war</last-edited>
+          <last-edited>triproject-web:war exploded</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.1672794" />
+                <option value="0.2" />
                 <option value="0.5" />
               </list>
             </option>
@@ -678,11 +1022,11 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>Web (triproject-web)|Web</last-edited>
+          <last-edited>Spring</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.1672794" />
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>
@@ -705,7 +1049,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.1672794" />
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>

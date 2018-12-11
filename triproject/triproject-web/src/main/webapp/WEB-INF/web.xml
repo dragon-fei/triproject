@@ -63,7 +63,7 @@
     <dispatcher>INCLUDE</dispatcher>
     <dispatcher>ERROR</dispatcher>
   </filter-mapping>
-<!--
+
   <error-page>
     <exception-type>
       org.apache.shiro.authz.UnauthenticatedException
@@ -80,7 +80,7 @@
     <location>/unauth.jsp</location>
 
   </error-page>
--->
+
   <welcome-file-list>
     <welcome-file>login.jsp</welcome-file>
     <welcome-file>index.jsp</welcome-file>

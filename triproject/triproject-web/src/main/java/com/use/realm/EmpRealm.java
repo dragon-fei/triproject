@@ -22,8 +22,12 @@ public class EmpRealm extends AuthorizingRealm {
 
     @Override
     protected AuthenticationInfo doGetAuthenticationInfo(AuthenticationToken token) throws AuthenticationException {
+
+        System.out.println("*********doGetAuthenticationInfo***************");
         String eid = token.getPrincipal().toString();
+        System.out.println("********************eid= " + eid);
         String password = PasswordUtil.getPassword(new String((char[])token.getCredentials()));
+        System.out.println("************************password= " + password);
         Map<String,Object> map = empService.get(eid,password);
         Emp emp = (Emp) map.get("emp") ; // 通过用户名获取用户信息
         if (emp == null) { // 表示该用户信息不存在，不存在则应该抛出一个异常
@@ -48,9 +52,12 @@ public class EmpRealm extends AuthorizingRealm {
 
     @Override
     protected AuthorizationInfo doGetAuthorizationInfo(PrincipalCollection principals) {
+
+        System.out.println("**************doGetAuthorizationInfo************************");
         SimpleAuthorizationInfo auth = new SimpleAuthorizationInfo();
         // 执行到此方法的时候一定是已经进行过用户认证处理了（用户名和密码一定是正确的）
         String eid = (String) principals.getPrimaryPrincipal(); // 取得用户名
+        System.out.println("**********************eid= " + eid);
         Map<String, Set<String>> map = this.empService.listRoleAndAction(eid);
         auth.setRoles(map.get("allRoles")); // 保存所有的角色
         auth.setStringPermissions(map.get("allActions")); // 保存所有的权限
